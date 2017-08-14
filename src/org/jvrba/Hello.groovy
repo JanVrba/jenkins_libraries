@@ -3,6 +3,5 @@ package org.jvrba;
   def name
   Hello(name) {
    this.name = name
-  echo 'Hello' + name
   }
 }
