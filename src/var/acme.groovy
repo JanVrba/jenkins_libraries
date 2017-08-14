@@ -10,3 +10,5 @@ class acme implements Serializable {
         echo "Hello, ${name}! CAUTION: ${message}"
     }
 }
+
+name = 'Alice'
