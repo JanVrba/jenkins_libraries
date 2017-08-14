@@ -1,4 +1,4 @@
-package or.jvrba;
+package org.jvrba;
   class acme implements Serializable {
       private String name
       def setName(value) {
