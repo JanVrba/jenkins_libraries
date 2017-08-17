@@ -2,6 +2,7 @@ package org.jvrba;
 
 class Hello implements Serializable {
   def Hello() {
-    println ("Hello");
+    int num = 1;
+    return num;
   }
 }
