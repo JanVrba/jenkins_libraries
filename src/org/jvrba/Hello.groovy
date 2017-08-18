@@ -5,4 +5,9 @@ class Hello implements Serializable {
     int num = 1;
     return num;
   }
+  
+  def hi() {
+    String hi = "Hi!";
+    println(hi);
+  }
 }
