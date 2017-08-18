@@ -6,8 +6,7 @@ class Hello implements Serializable {
     return num;
   }
   
-  void hi() {
-    String hi = "Hi!";
-    println(hi);
+  void hi() {    
+    println("Hi!");
   }
 }
